@@ -18,7 +18,7 @@ spring:
     driver-class-name: org.postgresql.Driver
     url: jdbc:postgresql://localhost:5433/ms_catalogo
     username: postgres
-    password: 12345678
+    password: admin
 eureka:
   client:
     service-url:
